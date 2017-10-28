@@ -1,1 +1,1 @@
-# Static Page lombokpy.github.io
+## Static Page https://lombokpy.github.io/docs/index.html
